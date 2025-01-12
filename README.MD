@@ -1,6 +1,5 @@
 # Wordle en Español
-
-<video width="320" height="320" controls src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.mp4" />
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.mp4)
 
 **Descripción:**
 
