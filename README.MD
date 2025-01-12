@@ -20,7 +20,7 @@ Una implementación del popular juego Wordle en español, desarrollado con HTML,
 
 ## Cómo jugar
 
-Puedes probar rapidamente la [versión online](link-to-game).
+Puedes probar rapidamente la [versión online](https://jolly-churros-aee71d.netlify.app/).
 
 ### Instalación local
 
