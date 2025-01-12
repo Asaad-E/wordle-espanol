@@ -1,7 +1,7 @@
 # Wordle en Español
 
 <video width="320" height="320" controls style='margin-top:'>
-  <source src="./media/test.mp4" type="video/mp4">
+  <source src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.mp4" type="video/mp4">
 </video>
 
 **Descripción:**
