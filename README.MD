@@ -1,6 +1,6 @@
 # Wordle en Español
 
-<img src="https://github.com/Asaad-E/WindowsCalcualtorWEB/blob/main/media/gif.gif" width="320" height="320"/>
+<img src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.gif" width="320" height="320"/>
 
 **Descripción:**
 
