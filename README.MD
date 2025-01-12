@@ -1,6 +1,8 @@
 # Wordle en Español
 
-<img src="https://github.com/Asaad-E/WindowsCalcualtorWEB/blob/main/media/gif.gif" width="320" height="320"/>
+<img src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.gif" width="320" height="320"/>
+
+Puedes probar rapidamente la [versión online](https://jolly-churros-aee71d.netlify.app/).
 
 **Descripción:**
 
@@ -18,11 +20,7 @@ Una implementación del popular juego Wordle en español, desarrollado con HTML,
 - 📊 Estadísticas detalladas de tu progreso
 - 📱 Diseño responsivo para todos los dispositivos
 
-## Cómo jugar
-
-Puedes probar rapidamente la [versión online](link-to-game).
-
-### Instalación local
+## Instalación local
 
 Puedes tambien crear una copia local del proyecto para poder modicarlo.
 
