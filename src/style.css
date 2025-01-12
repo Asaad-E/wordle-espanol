@@ -286,6 +286,8 @@ body {
 
   transform: translateX(-50%);
 
+  text-align: center;
+
   animation: aperance 2s 0s forwards;
 }
 
@@ -608,5 +610,29 @@ body {
     z-index: 1;
 
     /* transform: translateX(-50%); */
+  }
+
+  @keyframes aperance {
+    0% {
+      top: -1rem;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    10%,
+    60% {
+      top: 8rem;
+      left: 50%;
+      transform: translateX(-50%);
+      opacity: 1;
+    }
+
+    80% {
+      transform: translateX(80%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(80%);
+      opacity: 0;
+    }
   }
 }
