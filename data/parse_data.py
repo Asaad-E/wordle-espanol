@@ -22,5 +22,5 @@ fiveLetterWord = words[count==5]
 # Serializar el array a formato JSON
 
 json_string = json.dumps(fiveLetterWord.tolist(), ensure_ascii=False).encode('utf8')
-with open('../words_data.js', 'w', encoding='utf-8') as f:
+with open('../src/words_data.js', 'w', encoding='utf-8') as f:
     f.write("export const words = " + json_string.decode() + ";")
