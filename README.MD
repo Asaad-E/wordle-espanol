@@ -1,9 +1,9 @@
 # Wordle en Español
 
-https://github.com/user-attachments/assets/70ce14fa-b00c-4e12-9801-a3f81a70d4c0
-
-https://github.com/user-attachments/assets/9a7d6037-a2a8-4263-82b7-2c76fd604b33
-
+<video width="320" height="320" controls style='margin-top:'>
+  <source src="https://github.com/user-attachments/assets/70ce14fa-b00c-4e12-9801-a3f81a70d4c0
+">
+</video>
 **Descripción:**
 
 Una implementación del popular juego Wordle en español, desarrollado con HTML, CSS y JavaScript. El objetivo es adivinar una palabra de cinco letras en seis intentos o menos.
