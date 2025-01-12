@@ -2,6 +2,8 @@
 
 <img src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.gif" width="320" height="320"/>
 
+Puedes probar rapidamente la [versión online](https://jolly-churros-aee71d.netlify.app/).
+
 **Descripción:**
 
 Una implementación del popular juego Wordle en español, desarrollado con HTML, CSS y JavaScript. El objetivo es adivinar una palabra de cinco letras en seis intentos o menos.
@@ -18,11 +20,7 @@ Una implementación del popular juego Wordle en español, desarrollado con HTML,
 - 📊 Estadísticas detalladas de tu progreso
 - 📱 Diseño responsivo para todos los dispositivos
 
-## Cómo jugar
-
-Puedes probar rapidamente la [versión online](https://jolly-churros-aee71d.netlify.app/).
-
-### Instalación local
+## Instalación local
 
 Puedes tambien crear una copia local del proyecto para poder modicarlo.
 
