@@ -276,6 +276,7 @@ function finishGame(code) {
     }
   } else {
     gameStage.streak = 0;
+    gameStage.round++;
     overlayTitle.textContent = "Perdiste esta ronda";
   }
 
