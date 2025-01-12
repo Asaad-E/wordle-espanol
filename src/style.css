@@ -620,17 +620,21 @@ body {
     }
     10%,
     60% {
-      top: 8rem;
+      top: 9rem;
       left: 50%;
       transform: translateX(-50%);
       opacity: 1;
     }
 
     80% {
+      top: 9rem;
+
       transform: translateX(80%);
       opacity: 0;
     }
     100% {
+      top: 9rem;
+
       transform: translateX(80%);
       opacity: 0;
     }
