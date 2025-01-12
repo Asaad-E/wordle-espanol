@@ -1,6 +1,6 @@
 # Wordle en Español
 
-<video src="https://github.com/user-attachments/assets/70ce14fa-b00c-4e12-9801-a3f81a70d4c0" width="320" height="320" controls />
+<video src="https://github.com/user-attachments/assets/70ce14fa-b00c-4e12-9801-a3f81a70d4c0" width="320" height="320" controls></video>
 
 **Descripción:**
 
