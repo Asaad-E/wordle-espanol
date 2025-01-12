@@ -1,5 +1,8 @@
 # Wordle en Español
-[Watch the video](https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.mp4)
+
+https://github.com/user-attachments/assets/70ce14fa-b00c-4e12-9801-a3f81a70d4c0
+
+https://github.com/user-attachments/assets/9a7d6037-a2a8-4263-82b7-2c76fd604b33
 
 **Descripción:**
 
