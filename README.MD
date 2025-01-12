@@ -1,5 +1,5 @@
 # Wordle en Español
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.mp4)
+[Watch the video](https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.mp4)
 
 **Descripción:**
 
