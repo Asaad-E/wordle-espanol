@@ -319,8 +319,6 @@ function finishGame(code) {
     }
     barsElement[index].textContent = count[index];
   }
-
-  console.log(count);
 }
 
 function showError(msg) {
