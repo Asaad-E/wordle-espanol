@@ -4,7 +4,7 @@
 
 Puedes probar rapidamente la [versión online](https://asaad-wordle.netlify.app/).
 
-**Descripción:**
+## **Descripción:**
 
 Una implementación del popular juego Wordle en español, desarrollado con HTML, CSS y JavaScript. El objetivo es adivinar una palabra de cinco letras en seis intentos o menos.
 
