@@ -276,8 +276,9 @@ body {
   position: absolute;
   top: 4rem;
   left: 50%;
+  width: 29rem;
 
-  text-transform: capitalize;
+  font-weight: bold;
 
   padding: 0.2rem 2rem;
   border: 3px solid var(--border-color);
@@ -294,23 +295,17 @@ body {
 @keyframes aperance {
   0% {
     top: -1rem;
-    left: 50%;
-    transform: translateX(-50%);
   }
   10%,
   60% {
     top: 5rem;
-    left: 50%;
-    transform: translateX(-50%);
     opacity: 1;
   }
 
   80% {
-    transform: translateX(80%);
     opacity: 0;
   }
   100% {
-    transform: translateX(80%);
     opacity: 0;
   }
 }
