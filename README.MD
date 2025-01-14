@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.gif" width="320" height="320"/>
 
-Puedes probar rapidamente la [versión online](https://jolly-churros-aee71d.netlify.app/).
+Puedes probar rapidamente la [versión online](https://asaad-wordle.netlify.app/).
 
 **Descripción:**
 
