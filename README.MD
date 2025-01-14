@@ -30,7 +30,7 @@ git clone https://github.com/Asaad-E/wordle-espanol.git
 
 ## Origen de los datos
 
-Las palabras más usadas del español se obtuvieron de la pagina de la [Real Academia Española](link).
+Las palabras más usadas del español se obtuvieron de la pagina de la [Real Academia Española](https://corpus.rae.es/frec/10000_formas.TXT).
 
 El proceso de filtrado se realizó con el script de Python ubicado en la carpeta `data`.
 
