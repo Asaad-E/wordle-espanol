@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Asaad-E/wordle-espanol/blob/main/media/test.gif" width="320" height="320"/>
 
-Puedes probar rapidamente la [versión online](https://jolly-churros-aee71d.netlify.app/).
+Puedes probar rapidamente la [versión online](https://asaad-wordle.netlify.app/).
 
-**Descripción:**
+## **Descripción:**
 
 Una implementación del popular juego Wordle en español, desarrollado con HTML, CSS y JavaScript. El objetivo es adivinar una palabra de cinco letras en seis intentos o menos.
 
@@ -13,7 +13,7 @@ Una implementación del popular juego Wordle en español, desarrollado con HTML,
 - 🎨 Sistema intuitivo de pistas por colores:
   - 🟩 Verde: Letra correcta en posición correcta
   - 🟨 Amarillo: Letra correcta en posición incorrecta
-  - ⬜ Gris: Letra no está en la palabra
+  - ⬛ Gris: Letra no está en la palabra
 - 🎲 Palabras aleatorias del español más común
 - 🌓 Modo oscuro/claro automático y manual
 - ⌨️ Soporte completo para teclado físico
@@ -30,7 +30,7 @@ git clone https://github.com/Asaad-E/wordle-espanol.git
 
 ## Origen de los datos
 
-Las palabras más usadas del español se obtuvieron de la pagina de la [Real Academia Española](link).
+Las palabras más usadas del español se obtuvieron de la pagina de la [Real Academia Española](https://corpus.rae.es/frec/10000_formas.TXT).
 
 El proceso de filtrado se realizó con el script de Python ubicado en la carpeta `data`.
 
