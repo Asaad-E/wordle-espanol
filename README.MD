@@ -13,7 +13,7 @@ Una implementación del popular juego Wordle en español, desarrollado con HTML,
 - 🎨 Sistema intuitivo de pistas por colores:
   - 🟩 Verde: Letra correcta en posición correcta
   - 🟨 Amarillo: Letra correcta en posición incorrecta
-  - ⬜ Gris: Letra no está en la palabra
+  - ⬛ Gris: Letra no está en la palabra
 - 🎲 Palabras aleatorias del español más común
 - 🌓 Modo oscuro/claro automático y manual
 - ⌨️ Soporte completo para teclado físico
